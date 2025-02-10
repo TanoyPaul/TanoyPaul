@@ -1,3 +1,4 @@
+![logo](https://github.com/TanoyPaul/TanoyPaul/blob/main/github-banner.png)
 <h1 align="center">Hey 👋, I'm Tanoy Paul</h1>
 <h3 align="center">A Frontend Developer from India.</h3>
 <img align = "right" alt="coding" width="400" src = "https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/f94135193d842e240e9c1267e4d9ca89.gif" >
